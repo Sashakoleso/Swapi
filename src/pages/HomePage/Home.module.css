@@ -1,0 +1,36 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.mainList {
+  padding-top: 50px;
+  font-size: 28px;
+  font-weight: 700;
+  color: black;
+  margin: 0 auto;
+  text-align: center;
+  display: flex;
+  width: 600px;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  flex-direction: row;
+}
+.mainList a {
+  text-decoration: none;
+}
+
+.mainTitleStyle {
+  margin: 20px;
+  display: flex;
+  width: 250px;
+  height: 100px;
+  z-index: 10;
+  background-color: rgb(197, 186, 186);
+  border: 1px solid black;
+  justify-content: center;
+  align-items: center;
+}
+image {
+  background-image: url(../../image/wp2902991.jpg);
+}
