@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/swapi/static/css/main.d8f19221.chunk.css",
+    "main.js": "/swapi/static/js/main.0b7eee51.chunk.js",
+    "main.js.map": "/swapi/static/js/main.0b7eee51.chunk.js.map",
+    "runtime-main.js": "/swapi/static/js/runtime-main.5f5cde36.js",
+    "runtime-main.js.map": "/swapi/static/js/runtime-main.5f5cde36.js.map",
+    "static/js/2.d2044823.chunk.js": "/swapi/static/js/2.d2044823.chunk.js",
+    "static/js/2.d2044823.chunk.js.map": "/swapi/static/js/2.d2044823.chunk.js.map",
+    "index.html": "/swapi/index.html",
+    "precache-manifest.1525f8457899b37440ef4256fea62433.js": "/swapi/precache-manifest.1525f8457899b37440ef4256fea62433.js",
+    "service-worker.js": "/swapi/service-worker.js",
+    "static/css/main.d8f19221.chunk.css.map": "/swapi/static/css/main.d8f19221.chunk.css.map",
+    "static/media/Home.module.css": "/swapi/static/media/wp2902991.0a68e659.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5f5cde36.js",
+    "static/js/2.d2044823.chunk.js",
+    "static/css/main.d8f19221.chunk.css",
+    "static/js/main.0b7eee51.chunk.js"
+  ]
+}
